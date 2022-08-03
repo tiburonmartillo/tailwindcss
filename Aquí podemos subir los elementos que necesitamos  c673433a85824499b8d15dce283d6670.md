@@ -1,0 +1,1 @@
+# Aquí podemos subir los elementos que necesitamos de la marca. Se debe actualizar si se generan nuevos. Se pueden cargar archivos pequeños, los archivos grandes se enlazan desde Drive.
