@@ -13,7 +13,15 @@
         'abstracto': "url('https://source.unsplash.com/random/?abstract/600x600')",
         'imagensota': "url('https://source.unsplash.com/random/?woods/600x600')",
         'cargo': "url('https://freight.cargo.site/t/original/i/4ffaf6ba2ce4b47c780e6a6ba93b323b195e02e2636d6ed173f152afdaafcf91/thumb_TMBTP_bp_005af9.svg')",
-      }
+      }, keyframes: {
+        wave: {
+          '0%': { transform: 'rotate(0.0deg)' },
+          '100%': { transform: 'rotate(360.0deg)' },
+        },
+      },
+      animation: {
+        'waving-hand': 'wave 20s linear infinite',
+      },
     },
   }
     }
